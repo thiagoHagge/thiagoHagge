@@ -20,7 +20,7 @@
 
 - 👨‍💻 Desenvolvedor Web e Mobile na **HMCB Desenvolvimento Online**
 - 🌱 Em constante evolução de maneira autônoma!
-- 💙 Interesse: React, React Native, Node.js e MongoDB.
+- 💙 Interesse: React, React Native, Node.js, MongoDB e Next.js.
 - 🗺 Em busca de um lugar que possa contribuir com minha evolução.
 
 ## Skills :nerd_face:
