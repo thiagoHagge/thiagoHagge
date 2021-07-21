@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
-  #### This is my resume.
-  <a href="https://drive.google.com/file/d/1E6JQrHlOQAHf11NaFeR1N9wExfFLs5oa/view?usp=sharing">
+  <h4>This is my resume.</h4>
+  <a href="https://drive.google.com/file/d/1E6JQrHlOQAHf11NaFeR1N9wExfFLs5oa/view?usp=sharing" height="60">
       <img src="https://s24534.pcdn.co/carreira-sucesso/wp-content/uploads/sites/3/2017/11/um-bom-CV.jpg">
   </a>
 </p>
