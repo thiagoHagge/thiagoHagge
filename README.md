@@ -1,10 +1,7 @@
 ### Hi there 👋
-<p align="center">
-  <h4>This is my resume.</h4>
-  <a href="https://drive.google.com/file/d/1E6JQrHlOQAHf11NaFeR1N9wExfFLs5oa/view?usp=sharing" height="60">
-      <img src="https://s24534.pcdn.co/carreira-sucesso/wp-content/uploads/sites/3/2017/11/um-bom-CV.jpg">
-  </a>
-</p>
+<a href="https://drive.google.com/file/d/1E6JQrHlOQAHf11NaFeR1N9wExfFLs5oa/view?usp=sharing">
+    Click here to view my resume.
+</a>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
