@@ -1,7 +1,8 @@
 ### Hi there 👋
-<a href="https://drive.google.com/file/d/1E6JQrHlOQAHf11NaFeR1N9wExfFLs5oa/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1pnZVGvL_kLDvP2mJWAP9PATHrAOMIW3T/view?usp=sharing">
     Click here to view my resume.
 </a>
+<br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
